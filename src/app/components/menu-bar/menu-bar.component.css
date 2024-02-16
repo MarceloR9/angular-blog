@@ -1,7 +1,3 @@
-.container_menu-bar{
-
-}
-
 .container_menu-bar > ul{
   display: flex;
   flex-direction: row;
